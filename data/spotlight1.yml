@@ -1,10 +1,14 @@
 ####################### Spotlight #########################
-style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+style: "style1 orient-right content-align-left image-position-right onscroll-image-fade-in"
 id: "first"
-title : "Spotlight"
+title : "Professional Summary"
 content: |
-  This is a <strong>Spotlight</strong> element, and it's generally used &ndash; as its name implies &ndash; to spotlight a particular feature, subject, or pretty much whatever. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  As an experienced web developer and an aspiring programmer, I have a proven track record of managing and executing creative projects. Balancing the demands of being a mom of two amazing humans and one furry beast I excel in preparation and adaptability. Combined with my diverse technical background, exceptional attention to detail, and stellar organizational skills, I deliver successful projects on time and within budget.
+content2: | 
+  Driven by my career experiences I have developed a keen interest in coding, leading me to pursue independent study of programming. Thriving on complex technical challenges, I am committed to continuously expanding my knowledge base, fostering collaboration, and propelling collective success within any team I join.
+
+  Click below to learn more about my journey and skill sets.
 button: 
   label: "Learn More"
-  link: "#"
+  link: "#resume"
 image: "images/spotlight01.jpg"
