@@ -14,11 +14,11 @@ relativeURLs = "true"
 
 # Local
 baseURL = "/"
-publishDir = "public"
+publishDir = "docs"
 
 # Remote
 #baseURL = "https://jadewink.github.io/"
-#publishDir = "public"
+#publishDir = "docs"
 
 ## -----------------------------------------------
 ## Hugo Built-in Features
