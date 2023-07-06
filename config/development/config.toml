@@ -17,8 +17,8 @@ baseURL = "/"
 publishDir = "docs"
 
 # Remote
-#baseURL = "https://jadewink.github.io"
-#publishDir = "//docs/"
+#baseURL = "https://jadewink.github.io/"
+#publishDir = "docs"
 
 ## -----------------------------------------------
 ## Hugo Built-in Features
