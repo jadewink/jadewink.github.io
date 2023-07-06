@@ -14,7 +14,7 @@ relativeURLs = "true"
 
 # Local
 baseURL = "/"
-publishDir = "docs"
+publishDir = "public"
 
 # Remote
 #baseURL = "https://jadewink.github.io/"
