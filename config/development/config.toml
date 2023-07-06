@@ -18,7 +18,7 @@ publishDir = "public"
 
 # Remote
 #baseURL = "https://jadewink.github.io/"
-#publishDir = "docs"
+#publishDir = "public"
 
 ## -----------------------------------------------
 ## Hugo Built-in Features
