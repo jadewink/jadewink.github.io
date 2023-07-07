@@ -1,6 +1,6 @@
 ####################### Banner #########################
 style: "style3 orient-right content-align-right image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "Hi, my name is Jordyn"
+title : "Hi, I'm Jordyn Jones"
 # subtitle: |
 #   Hugo Story released for free under the <a target="_blank" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons</a>.
 # content : |
@@ -8,5 +8,5 @@ title : "Hi, my name is Jordyn"
 button:
   label : "Get to know me"
   link : "#first"
-image : "images/banner.jpg"
+image : "images/headshot.jpg"
 
